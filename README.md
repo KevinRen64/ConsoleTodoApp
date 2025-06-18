@@ -19,14 +19,8 @@ A simple console application to manage a to-do list built with C# and JSON file 
 - .NET 6 SDK or later
 - Any C# IDE or text editor (e.g., Visual Studio, VS Code)
 
-### Setup
 
-**1. Clone this repository:**
 
-```bash
-git clone https://github.com/yourusername/TodoApp.git
-cd TodoApp
 
-**2. Build and run the app:**
 
-dotnet run
+
